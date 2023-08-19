@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+This is Shang-Wen Wong.
+Doctoral Program in Robotics, College of Engineering, Tamkang University, New Taipei City, Taiwan
+
 - 🔭 I’m currently working on Task-oriented grasp pose estimation
    
 <!--
